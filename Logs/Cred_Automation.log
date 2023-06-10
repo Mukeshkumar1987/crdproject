@@ -1,0 +1,26 @@
+ 2023-05-30 12:22:12,403 : INFO : Test_Login : test_login002 : 23 : Startes test case 002 testing
+ 2023-05-30 12:22:12,404 : INFO : Test_Login : test_login002 : 24 : opening browser
+ 2023-05-30 12:22:14,373 : INFO : Test_Login : test_login002 : 26 : GO to this Url pagehttps://automation.credence.in/shop
+ 2023-05-30 12:22:14,881 : INFO : Test_Login : test_login002 : 29 : click login page
+ 2023-05-30 12:22:14,960 : INFO : Test_Login : test_login002 : 31 : Entering the Emaildeshpande123@gmail.com
+ 2023-05-30 12:22:14,991 : INFO : Test_Login : test_login002 : 33 : Entering Password123321
+ 2023-05-30 12:22:16,690 : INFO : Test_Login : test_login002 : 35 : clickl the login button
+ 2023-05-30 12:22:16,938 : INFO : Test_Login : test_login002 : 38 : click the Menu Button
+ 2023-05-30 12:22:18,107 : INFO : Test_Login : test_login002 : 40 : click the logout Buttion
+ 2023-05-31 10:10:31,356 : INFO : Test_Login : test_login002 : 23 : Startes test case 002 testing
+ 2023-05-31 10:10:31,358 : INFO : Test_Login : test_login002 : 24 : opening browser
+ 2023-05-31 10:10:32,171 : INFO : Test_Login : test_login002 : 26 : GO to this Url pagehttps://automation.credence.in/shop
+ 2023-05-31 10:10:32,493 : INFO : Test_Login : test_login002 : 29 : click login page
+ 2023-05-31 10:10:32,552 : INFO : Test_Login : test_login002 : 31 : Entering the Emaildeshpande123@gmail.com
+ 2023-05-31 10:10:32,578 : INFO : Test_Login : test_login002 : 33 : Entering Password123321
+ 2023-05-31 10:10:33,574 : INFO : Test_Login : test_login002 : 35 : clickl the login button
+ 2023-05-31 10:10:33,821 : INFO : Test_Login : test_login002 : 38 : click the Menu Button
+ 2023-05-31 10:10:34,374 : INFO : Test_Login : test_login002 : 40 : click the logout Buttion
+ 2023-06-07 17:22:41,504 : INFO : Test_Login : test_login002 : 23 : Startes test case 002 testing
+ 2023-06-07 17:22:41,505 : INFO : Test_Login : test_login002 : 24 : opening browser
+ 2023-06-07 17:22:42,834 : INFO : Test_Login : test_login002 : 26 : GO to this Url pagehttps://automation.credence.in/shop
+ 2023-06-07 17:22:43,870 : INFO : Test_Login : test_login002 : 29 : click login page
+ 2023-06-07 17:22:44,083 : INFO : Test_Login : test_login002 : 31 : Entering the Emaildeshpande123@gmail.com
+ 2023-06-07 17:22:44,130 : INFO : Test_Login : test_login002 : 33 : Entering Password123321
+ 2023-06-07 17:22:45,023 : INFO : Test_Login : test_login002 : 35 : clickl the login button
+ 2023-06-07 17:22:45,102 : INFO : Test_Login : test_login002 : 38 : click the Menu Button
